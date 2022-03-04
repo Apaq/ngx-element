@@ -1,5 +1,4 @@
 import { Component, OnInit, Input, Output, EventEmitter, ViewEncapsulation, ViewChild, ElementRef } from '@angular/core';
-import { stringify } from 'querystring';
 
 @Component({
   templateUrl: './panel.component.html',
